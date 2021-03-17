@@ -5,10 +5,14 @@ $Compiler/Interpreter/Debugger	:	78-90, 133-133
 $Emulation/Modeling				:	91-103, 145-145
 $Games							:	104-132
 
+STATS
+DONE = 2
+
 
 @Easy
 4	Markov Chain Sentence Generator
 #	(Include Shitposting Capabilities)
+## Done in py. Todo: Documentation and cleaning.
 10	To-Do List Application
 #	(Web app or CLI)
 15	Chatbot
