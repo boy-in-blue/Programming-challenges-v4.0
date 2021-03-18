@@ -1,24 +1,23 @@
-$Practical						:	1-43, 125-139, 140-144
-$Algorithmic					:	44-69, 134-134
-$Artificial Intelligence		:	70-77
-$Compiler/Interpreter/Debugger	:	78-90, 133-133
-$Emulation/Modeling				:	91-103, 145-145
-$Games							:	104-132
+### Practical                          : 1-43, 125-139, 140-144
+### Algorithmic                        : 44-69, 134-134
+### Artificial Intelligence            : 70-77
+### Compiler/Interpreter/Debugger      : 78-90, 133-133
+### Emulation/Modeling                 : 91-103, 145-145
+### Games                              : 104-132
 
-STATS
-DONE = 2
+## Done = 4
 
-
-@Easy
-4	Markov Chain Sentence Generator
-#	(Include Shitposting Capabilities)
-## Done in py. Todo: Documentation and cleaning.
-10	To-Do List Application
-#	(Web app or CLI)
-15	Chatbot
-#	(With conversation retention)
+# Easy
+## 4 Markov Chain Sentence Generator
+###	(Include Shitposting Capabilities)
+#### Done in py. Todo: Documentation and cleaning and shitposting
+## 10 To-Do List Application
+###	(Web app or CLI)
+#### Done in py. CLI done. Will make webapp with react.
+## 15 Chatbot
+### (With conversation retention)   
 18	Image to ASCII Art
-25	Imageboard	(Imagine vichan)
+25  Imageboard (Imagine vichan)
 35	Create an HSV Color Representation
 42	Port Scanner
 43	Old School Demo Effect (Plasma, Tunner, Scrollers, Zoomers, etc...)
