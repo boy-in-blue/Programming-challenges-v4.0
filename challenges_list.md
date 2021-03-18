@@ -8,8 +8,8 @@
 ## Done = 4
 
 # Easy
-## 4 Markov Chain Sentence Generator
-(Include Shitposting Capabilities)\n
+### 4 Markov Chain Sentence Generator
+(Include Shitposting Capabilities) 
 Done in py. Todo: Documentation and cleaning and shitposting
 ## 10 To-Do List Application
 ###	(Web app or CLI)
