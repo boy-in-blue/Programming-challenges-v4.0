@@ -15,9 +15,12 @@ Done in py. Todo: Documentation and cleaning and shitposting
 **(Web app or CLI)**<br>
 Done in py. CLI done. Will make webapp with react.
 ### 15 Chatbot
-**(With conversation retention)**
+**(With conversation retention)**<br>
+idea: NLP erp fetching chatbot. trained by users feedback.
 ### 18. Image to ASCII Art
+done in py. clean and package laters.
 ### 25. Imageboard (Imagine vichan)
+do in php/mysql?
 ### 35.	Create an HSV Color Representation
 ### 42 Port Scanner
 ### 43 Old School Demo Effect (Plasma, Tunner, Scrollers, Zoomers, etc...)
@@ -44,6 +47,7 @@ Done in py. CLI done. Will make webapp with react.
 ### 102 Draw a spinning 3D Cube
 ### 103 Cellular Textures
 ### 107 Snake
+do in pygame?
 ### 111 Rock Paper Scissors
 ### 122 Design a Game Engine in Unity
 ### 123 Yahtzee
