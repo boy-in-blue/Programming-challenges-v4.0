@@ -5,7 +5,7 @@ Compiler/Interpreter/Debugger : 78-90, 133-133<br>
 Emulation/Modeling : 91-103, 145-145<br>
 Games : 104-132<br>
 
-## Done = 4
+## Done = ?
 
 # Easy
 ### 4. Markov Chain Sentence Generator
@@ -41,14 +41,16 @@ do in php/mysql?
 ### 65 Youtube to MP3
 ### 66 Text to hexadecimal/binary
 ### 68 Sierpinski Triangle
+drawn using chaos game. valid?
 ### 74 Basic Neural Network - Simulate individual neurons and their connections
 ### 96 Generate a Complimentary Color from any input color
 ### 101 Eulerian Path
 ### 102 Draw a spinning 3D Cube
 ### 103 Cellular Textures
 ### 107 Snake
-do in pygame?
+done in py. todo clean stuff
 ### 111 Rock Paper Scissors
+make in pygame add cool animations
 ### 122 Design a Game Engine in Unity
 ### 123 Yahtzee
 ### 124 Oil Panic
@@ -57,7 +59,7 @@ do in pygame?
 ### 134 Ulam Spiral
 ### 138 PDF Tagger
 ### 145 ASCII Digital Clock
-## Done in py. ToDo: golang
+Done in py. ToDo: golang
 
 
 ## Medium
