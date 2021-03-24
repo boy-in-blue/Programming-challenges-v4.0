@@ -33,6 +33,7 @@ do in php/mysql?
 ### 50 Calculate the first (n) digits of pi
 ### 52 Given an Array of Stocks's values ofer time, find the period of time where the stocks could have made the most money
 ### 53 Highest Prime Factor Calculator
+done in py. print to console
 ### 56 Password Generator
 **(Let User Choose Options)**<br>
 ### 59 Ceasar Cipher Cracker
@@ -55,6 +56,7 @@ make in pygame add cool animations
 ### 123 Yahtzee
 ### 124 Oil Panic
 ### 127 Connect Four
+done in C lang+console. maybe do graphic html/js
 ### 132 Simon
 ### 134 Ulam Spiral
 ### 138 PDF Tagger
