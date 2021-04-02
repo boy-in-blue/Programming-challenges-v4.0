@@ -5,7 +5,7 @@ Compiler/Interpreter/Debugger : 78-90, 133-133<br>
 Emulation/Modeling : 91-103, 145-145<br>
 Games : 104-132<br>
 
-## Done = ?
+## Done = around 10
 
 # Easy
 ### 4. Markov Chain Sentence Generator
@@ -27,6 +27,7 @@ do in php/mysql?
 ### 44 Fizzbuzz
 **(BONUS: In assembly)**<br>
 ### 45 RPN Calculator
+done in c with sdl2.
 ### 46 Counts occurrences of characters in a Given String
 **(Inlcude support for unicode character)**<br>
 ### 47 Tower of Hanoi
@@ -36,6 +37,7 @@ do in php/mysql?
 done in py. print to console
 ### 56 Password Generator
 **(Let User Choose Options)**<br>
+done in c. cli.
 ### 59 Ceasar Cipher Cracker
 ### 61 ROT 13
 ### 64 Encrypt/Decrypt Text: Implement at least one from http://rumkin.com/tools/cipher/collection
@@ -56,7 +58,7 @@ make in pygame add cool animations
 ### 123 Yahtzee
 ### 124 Oil Panic
 ### 127 Connect Four
-done in C lang+console. maybe do graphic html/js
+done in C lang+console. fix out of range. maybe do graphic html/js
 ### 132 Simon
 ### 134 Ulam Spiral
 ### 138 PDF Tagger
